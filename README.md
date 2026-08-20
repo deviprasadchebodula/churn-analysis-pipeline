@@ -70,4 +70,4 @@ Running `main.py` executes the full pipeline end to end: loads the CSV, cleans m
 
 ## Author
 
-Dev Prasad Chebodula
+DeviPrasad Chebodula
